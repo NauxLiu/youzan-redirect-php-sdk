@@ -1,0 +1,15 @@
+{
+    "name": "nauxliu/youzan-redirect-php-sdk",
+    "authors": [
+        {
+            "name": "刘相轩",
+            "email": "nauxliu@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "YouZan": "src/"
+        }
+    },
+    "require": {}
+}
