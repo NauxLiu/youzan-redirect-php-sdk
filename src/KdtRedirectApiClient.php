@@ -5,6 +5,8 @@
 
 namespace YouZan;
 
+use Exception;
+
 class KdtRedirectApiClient
 {
     private static $apiEntry = 'http://wap.koudaitong.com/v2/open/weixin/auth';
